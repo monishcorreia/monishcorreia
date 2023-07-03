@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @monishcorreia
-- 👀 I’m interested in QA.
-- 🌱 I’m currently learning K6, Open source load testing tool.
-- 💞️ I’m looking to collaborate on performance testing.
-- 📫 How to reach me monish.correia@gmail.com
+👋 Hi, I'm Monish Correia, a QA Lead with a focus on performance testing. I'm passionate about leveraging K6, an open-source load testing tool, to ensure robust and high-performing applications. I'm actively seeking collaboration opportunities in the field of performance testing. Feel free to reach out to me at **monish.correia@gmail.com**.
 
 <!---
 monishcorreia/monishcorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
