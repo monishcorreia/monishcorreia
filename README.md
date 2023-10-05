@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=monishcorreia&theme=material-palenight&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?user=monishcorreia&theme=material-palenight&area=true" />
