@@ -4,3 +4,18 @@
 monishcorreia/monishcorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=monishcorreia&show_icons=true&locale=en&theme=tokyonight" />
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishcorreia&langs_count=8&theme=tokyonight" />
+    </td>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=monishcorreia&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+<img src="https://activity-graph.herokuapp.com/graph?username=monishcorreia&theme=material-palenight&area=true" />
