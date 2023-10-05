@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=monishcorreia&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?username=monishcorreia&theme=tokyonight" />
     </td>
   </tr>
 </table>
